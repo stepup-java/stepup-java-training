@@ -2,7 +2,7 @@
 Output: 1 2 3 4 5 6 7 8 (stops before 9)
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class StopDivisibleBy9 {
 

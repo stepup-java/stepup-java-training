@@ -3,7 +3,7 @@ Input: 5
 Output: 120
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class FactorialOfNumber {
 

@@ -3,7 +3,7 @@ Input: 7
 Output: 7 14 21 28 35 42 49 56 63 70
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 import java.util.Scanner;
 

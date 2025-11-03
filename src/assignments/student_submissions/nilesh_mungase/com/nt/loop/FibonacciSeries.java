@@ -2,7 +2,7 @@
 Output: 0 1 1 2 3 5 8 13 21 34
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class FibonacciSeries {
 

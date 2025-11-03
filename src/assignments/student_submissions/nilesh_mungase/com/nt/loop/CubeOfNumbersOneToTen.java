@@ -2,7 +2,7 @@
 Output: 1 8 27 64 125 216 343 512 729 1000
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class CubeOfNumbersOneToTen {
 

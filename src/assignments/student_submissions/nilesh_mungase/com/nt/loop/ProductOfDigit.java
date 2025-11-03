@@ -3,7 +3,7 @@ Input: 234
 Output: 24
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class ProductOfDigit {
 

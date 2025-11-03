@@ -2,7 +2,7 @@
 Output: 1 2 3 4 (loop stops at 5)
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class BreakLoop {
 

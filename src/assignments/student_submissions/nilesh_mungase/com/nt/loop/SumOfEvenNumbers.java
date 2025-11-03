@@ -2,7 +2,7 @@
 Output: Sum = 650
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class SumOfEvenNumbers {
 

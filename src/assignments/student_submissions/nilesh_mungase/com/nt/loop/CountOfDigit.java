@@ -3,7 +3,7 @@ Input: 12345
 Output: Count = 5
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class CountOfDigit {
 

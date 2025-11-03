@@ -2,7 +2,7 @@
 Output: Sum = 55
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class SumOfFirstOneToTen {
 	public static void main(String[] args) {

@@ -2,7 +2,7 @@
 Output: 15 30 45 60 75 90
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class DivisibleBy3And5 {
 

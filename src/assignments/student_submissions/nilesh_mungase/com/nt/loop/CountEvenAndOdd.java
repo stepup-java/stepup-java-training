@@ -3,7 +3,7 @@ Input: 123456
 Output: Even = 3, Odd = 3
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class CountEvenAndOdd {
 

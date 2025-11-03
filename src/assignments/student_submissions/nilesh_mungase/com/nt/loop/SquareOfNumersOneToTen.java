@@ -2,7 +2,7 @@
 Output: 1 4 9 16 25 36 49 64 81 100
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class SquareOfNumersOneToTen {
 

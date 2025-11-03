@@ -2,7 +2,7 @@
 Output: 1 3 5 7 9 11 13 15 17 19
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class OddNumbersOneToTwenty {
 

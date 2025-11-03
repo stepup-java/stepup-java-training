@@ -2,7 +2,7 @@
 Output: 5 10 15 20 25 30 35 40 45 50
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class TableOfFive {
 

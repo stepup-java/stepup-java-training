@@ -2,7 +2,7 @@
 Output: 2 4 6 8 10 12 14 16 18 20
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class EvenNumbersOneToTwenty {
 

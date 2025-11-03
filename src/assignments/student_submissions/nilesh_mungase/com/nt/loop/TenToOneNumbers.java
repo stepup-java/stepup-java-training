@@ -2,7 +2,7 @@
 Output: 10 9 8 7 6 5 4 3 2 1
 */
 
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.nilesh_mungase.com.nt.loop;
 
 public class TenToOneNumbers {
 
