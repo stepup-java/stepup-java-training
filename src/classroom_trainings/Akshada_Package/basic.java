@@ -1,6 +1,6 @@
-package classroom_trainings.demo_training;
+package classroom_trainings.Akshada_Package;
 
-public class demo {
+public class basic {
     public static void main(String[] args) {
         // Define a binary number as a string
         String binary = "1010"; // binary for 10
