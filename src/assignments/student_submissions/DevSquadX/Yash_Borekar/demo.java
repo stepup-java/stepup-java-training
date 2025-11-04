@@ -1,4 +1,4 @@
-package assignments.student_submissions.yash_borekar_Assignments;
+package assignments.student_submissions.DevSquadX.Yash_Borekar;
 
 public class demo {
     public static void main() {

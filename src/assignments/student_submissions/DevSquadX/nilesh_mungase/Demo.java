@@ -1,4 +1,4 @@
-package assignments.student_submissions.nilesh_mungase;
+package assignments.student_submissions.DevSquadX.nilesh_mungase;
 
 public class Demo {
     static void main() {
