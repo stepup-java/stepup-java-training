@@ -17,7 +17,7 @@ public class Palindrome {
 		if (t == rev) {
 			System.out.println("Palindrome");
 		} else {
-			System.out.println("Not Palindrome");
+			System.out.println("Not Palindrome.");
 		}
 	}
 }
