@@ -8,7 +8,8 @@ public class Palindrome {
 		int r = 0;
 		int rev = 0;
 		int t = n;
-		for (i = 0; n != 0; i++) {
+		while (n != 0) {
+            i++;
 			r = n % 10;
 			rev = rev * 10 + r;
 			n = n / 10;
