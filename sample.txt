@@ -1,0 +1,2 @@
+Hello, this is a sample text file.
+Welcome to File Handling in Java.This is the appended line.
