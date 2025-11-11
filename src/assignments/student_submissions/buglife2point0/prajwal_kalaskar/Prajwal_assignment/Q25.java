@@ -2,7 +2,7 @@
 //Input: n = 100
 //Output: Sum = 5050
 
-package Prajwal_Kalaskar_Assignment;
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;
 
 public class Q25 {
 

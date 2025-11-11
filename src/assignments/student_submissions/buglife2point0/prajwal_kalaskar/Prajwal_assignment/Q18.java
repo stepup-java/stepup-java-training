@@ -1,4 +1,4 @@
-package Prajwal_Kalaskar_Assignment;
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;
 
 //18. Find product of digits in a number
 //Input: 234

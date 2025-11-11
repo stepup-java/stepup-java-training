@@ -1,4 +1,4 @@
-package Prajwal_Kalaskar_Assignment;// 16. Reverse a number
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;// 16. Reverse a number
 //Input: 1234
 //Output: 4321
 

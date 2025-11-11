@@ -2,7 +2,7 @@
 //Output: 7 14 21 28 35 42 49 56 63 70
 
 
-package Prajwal_Kalaskar_Assignment;
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;
 
 public class Q22 {
 

@@ -1,7 +1,7 @@
 //29. Print all prime numbers from 1 to 50
 //Output: 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
 
-        package Prajwal_Kalaskar_Assignment;
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;
 
 public class Q29 {
 

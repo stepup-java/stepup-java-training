@@ -1,7 +1,7 @@
 //30. Print Fibonacci series up to 10 terms
 //Output: 0 1 1 2 3 5 8 13 21 34
 
-        package Prajwal_Kalaskar_Assignment;
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;
 
 public class Q30 {
 

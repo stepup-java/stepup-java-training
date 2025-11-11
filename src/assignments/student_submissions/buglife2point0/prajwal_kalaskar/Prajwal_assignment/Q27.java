@@ -1,7 +1,7 @@
 //27. Use continue to skip printing number 5 from 1 to 10
 //Output: 1 2 3 4 6 7 8 9 10
 
-package Prajwal_Kalaskar_Assignment;
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;
 
 public class Q27 {
 

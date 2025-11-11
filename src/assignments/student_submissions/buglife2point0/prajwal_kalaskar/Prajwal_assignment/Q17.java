@@ -1,4 +1,4 @@
-package Prajwal_Kalaskar_Assignment;//17. Check if a number is palindrome
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;//17. Check if a number is palindrome
 //Input: 121
 //Output: Palindrome
 //Input: 123

@@ -1,7 +1,7 @@
 //26. Use break to stop loop when number reaches 5
 //Output: 1 2 3 4 (loop stops at 5)
 
-package Prajwal_Kalaskar_Assignment;
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;
 
 public class Q26 {
 

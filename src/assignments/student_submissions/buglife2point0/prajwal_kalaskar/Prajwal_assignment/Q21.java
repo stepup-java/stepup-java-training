@@ -2,7 +2,7 @@
 //Input: 153
 //Output: Armstrong Number
 
-package Prajwal_Kalaskar_Assignment;
+package assignments.student_submissions.buglife2point0.prajwal_kalaskar.Prajwal_assignment;
 
 public class Q21 {
     public static void main(String[] args) {
