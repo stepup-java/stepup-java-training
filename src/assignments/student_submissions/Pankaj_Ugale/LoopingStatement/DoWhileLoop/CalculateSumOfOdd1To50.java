@@ -1,0 +1,14 @@
+package assignments.student_submissions.Pankaj_Ugale.LoopingStatement.DoWhileLoop;
+
+public class CalculateSumOfOdd1To50 {
+public static void main(String[] args) {
+	int i=0;
+	int sum=0;
+	for(i=1;i<=50;i++) {
+		if(i%2!=0) {
+			sum = sum +i;
+		}
+	}
+	System.out.println(sum);
+}
+}
