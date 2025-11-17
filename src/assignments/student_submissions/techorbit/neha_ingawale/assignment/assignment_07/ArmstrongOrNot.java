@@ -12,6 +12,7 @@ class ArmstrongOrNot {
             sum += d*d*d;
             n /= 10;
         }
+
         if(sum == temp)
             System.out.println("Armstrong Number");
         else
