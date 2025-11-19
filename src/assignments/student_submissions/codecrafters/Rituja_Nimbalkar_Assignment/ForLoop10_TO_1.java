@@ -1,0 +1,12 @@
+package assignments.student_submissions.codecrafters.Rituja_Nimbalkar_Assignment;
+
+public class ForLoop10_TO_1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+for(int i=10;i>=1;i--) {
+	System.out.println(i);
+}
+	}
+
+}
