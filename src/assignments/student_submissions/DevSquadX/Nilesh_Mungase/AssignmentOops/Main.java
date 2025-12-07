@@ -13,20 +13,17 @@ package assignments.student_submissions.DevSquadX.Nilesh_Mungase.AssignmentOops;
 public class Main {
     static void main() {
 
-       Student s1 = new Student(1,100,"Nilesh");
-        Student s2 = new Student(2,40,"Pankaj");
-        Student s3 = new Student(3,90,"Yash");
-        Student s4 = new Student(4,98,"Rajehs");
-        Student s5 = new Student(5,22,"Riteshh");
-        Student s6 = new Student(6,10,"om");
+        Student s1 = new Student(1, 100, "Nilesh");
+        Student s2 = new Student(2, 40, "Pankaj");
+        Student s3 = new Student(3, 90, "Yash");
+        Student s4 = new Student(4, 98, "Nikhil");
+        Student s5 = new Student(5, 22, "Tushar");
+        Student s6 = new Student(6, 10, "Vijay");
 
-        for (Student obj: Student.students){
-            if (obj.marks>50){
-            System.out.println(obj.id+" "+obj.name+" "+obj.marks);
+        for (Student obj : Student.students) {
+            if (obj.marks > 50) {
+                System.out.println(obj.id + " " + obj.name + " " + obj.marks);
+            }
         }
-        }
-
-
-
     }
 }
